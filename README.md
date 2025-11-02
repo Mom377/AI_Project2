@@ -100,6 +100,7 @@ Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
 <img src="https://github.com/Mom377/AI_Project2/blob/main/020.png">
 
 訓練結果如圖
+
 <img src="https://github.com/Mom377/AI_Project2/blob/main/021.png">
 
 
