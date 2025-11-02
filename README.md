@@ -48,8 +48,8 @@ Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
 
 <img src="https://github.com/Mom377/AI_Project2/blob/main/008.png">
 
-之後在一系列的視窗中進行登入Google帳號,同時授權對雲端磁碟檔案的讀取與修改,完成後便可實
-現掛載
+之後在一系列的視窗中進行登入Google帳號,同時授權對雲端磁碟檔案的讀取與修改,完成後便可實現掛載
+
 <img src="https://github.com/Mom377/AI_Project2/blob/main/009.png">
 
 可以看到的是,我們谷歌硬碟裡面的資料已經放在./gdrive/MyDrive 這個目錄裡面,我們再去呼叫的時候就會十分方便,目前筆者的筆記本檔案是在Colab Notebooks 資料夾裡面
@@ -64,6 +64,7 @@ Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
 **以MINST手寫數字資料集作為範例進行訓練**
 
 **CPU版**
+
 <img src="https://github.com/Mom377/AI_Project2/blob/main/011.png">
 
 導入相對應的庫
