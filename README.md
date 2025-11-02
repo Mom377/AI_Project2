@@ -20,35 +20,37 @@ Google Driver: https://drive.google.com/drive/
 
 **筆記本創建**
 首先進入Google Driver: https://drive.google.com/drive/
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/01.png">
+<img src="https://github.com/Mom377/AI_Project2/blob/main/001.png">
 
 點選左上角的新建-更多
-<img src="https://github.com/Qi-sun-12/Ha/blob/098fe6ec799c24a7a607957cd1ab262ef833597e/02.png">
+<img src="https://github.com/Mom377/AI_Project2/blob/main/002.png">
 
 這時候你已經可以看到Google Colaboratory,若沒有則點擊“關聯更多應用程式”,搜尋“Colab”,安裝第一個即可
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/03.png">
+<img src="https://github.com/Mom377/AI_Project2/blob/main/003.png">
 
 進入Colab
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/04.png">
+<img src="https://github.com/Mom377/AI_Project2/blob/main/004.png">
 
 若直接點選Colab的網址則為該頁面
-<img src="https://github.com/Qi-sun-12/Ha/blob/111ca766fcd7f0cefeeb290f5d16f7df23474220/05.png">
+<img src="https://github.com/Mom377/AI_Project2/blob/main/005.png">
 
 這時你只需要點選左上角的檔案-新筆記本就可以進入相同的頁面
 左邊有五個選項,分別為目錄、尋找和替換、變數、Secret(秘鑰)、文件
 之後點選程式碼執行程序,然後點選變更執行時間類型,在其中硬體加速器部分選擇GPU保存,
 Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
-<img src="https://github.com/Qi-sun-12/Ha/blob/8716739ab37ba9b22119af48d57772428856a0d6/07.png">
+<img src="https://github.com/Mom377/AI_Project2/blob/main/006.png">
 
 ###雲端硬碟掛載由於我們的資料集以及程式碼檔案都放在了Google雲端碟上,因此還需要對Google 雲端硬碟進行掛載在新建立的筆記本中輸入以下程式碼
-<img src="https://github.com/Qi-sun-12/Ha/blob/9b40c2239c53e64ef3fd174e9b30107f53941969/06.png">
+
+<img src="https://github.com/Mom377/AI_Project2/blob/main/007.png">
 
 運行後便可以獲得該視窗
-<img src="https://github.com/Qi-sun-12/Ha/blob/5b23c403ac2121f294c429299da12e0fef1cd9fe/08.png">
+
+<img src="https://github.com/Mom377/AI_Project2/blob/main/008.png">
 
 之後在一系列的視窗中進行登入Google帳號,同時授權對雲端磁碟檔案的讀取與修改,完成後便可實
 現掛載
-<img src="https://github.com/Qi-sun-12/Ha/blob/45b2a5246b5b880bd85209ce5b4ea9add6ea237b/09.png">
+<img src="https://github.com/Mom377/AI_Project2/blob/main/009.png">
 
 可以看到的是,我們谷歌硬碟裡面的資料已經放在./gdrive/MyDrive 這個目錄裡面,我們再去呼叫的時候就會十分方便,目前筆者的筆記本檔案是在Colab Notebooks 資料夾裡面
 
@@ -56,6 +58,7 @@ Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
 在notebook環境下,你只需要在每一行程式碼前面多加一個「!」(注意是英文的感嘆號),便可以
 像Linux系統裡的終端指令操作那樣進行指令的輸入
 如使用Is指令,便可以得到目前目錄下的路徑
+
 <img src="https://github.com/Qi-sun-12/Ha/blob/cebb374acb603820947a7ffd98cf3336f5a7f8e4/10.png">
 
 **以MINST手寫數字資料集作為範例進行訓練**
