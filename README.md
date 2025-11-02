@@ -77,7 +77,7 @@ Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
 
 資料集下載(若沒有則會自動下載,若有則會自動跳過並讀取到相對應的資料)
 
-
+<img src="https://github.com/Mom377/AI_Project2/blob/main/018.png">
 
 載入資料集(每十張圖片為一批,並隨機打亂)
 
@@ -85,22 +85,22 @@ Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
 
 網路實例化
 
-<img src="https://github.com/Qi-sun-12/Ha/blob/1e3eaff58ccdf5b0c8aa22c17f9c653bd82f5618/16.png">
+<img src="https://github.com/Mom377/AI_Project2/blob/main/016.png">
 
 參數優化、學習率與訓練輪次設定
 
-<img src="https://github.com/Qi-sun-12/Ha/blob/cebf38f2a5deacd53204892edec9896f16f92e01/17.png">
+<img src="https://github.com/Mom377/AI_Project2/blob/main/017.png">
 
 開始訓練
 
-<img src="https://github.com/Qi-sun-12/Ha/blob/badab8dcb911a113dd1bb49ea0d9e669e84ad6d3/18.png">
+<img src="https://github.com/Mom377/AI_Project2/blob/main/0119.png">
 
 模型驗證
 
-<img src="https://github.com/Qi-sun-12/Ha/blob/d48df8ff2af21c5cfda4ac8fe1101ff2543a4d7c/19.png">
+<img src="https://github.com/Mom377/AI_Project2/blob/main/020.png">
 
 訓練結果如圖
-<img src="https://github.com/Qi-sun-12/Ha/blob/71dfe09bd89df76e3d3463f527ea1caeac7e6541/19.png">
+<img src="https://github.com/Mom377/AI_Project2/blob/main/021.png">
 
 
 具體的程式碼請參考./notebook/CPU版該文件
