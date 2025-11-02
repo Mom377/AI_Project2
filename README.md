@@ -110,9 +110,11 @@ Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
 如果你已經參考CPU版的程式碼使其成功跑起來的話,你會留意到一件事:為什麼訓練這麼慢? 這時因為我們使用的是CPU去跑,接下來我們就用GPU去跑
 
 首先將更改運行類型,依序點擊程式碼執行程序-更改運行時類型便可以得到以下窗口
+
 <img src="https://github.com/Mom377/AI_Project2/blob/main/022.png">
 
 切換運行類型後倒入庫的同時讀取設備id
+
 <img src="https://github.com/Mom377/AI_Project2/blob/main/023.png">
 
 神經網路建立
@@ -143,5 +145,6 @@ Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
 <img src="https://github.com/Mom377/AI_Project2/blob/main/030.png">
 
 訓練結果如圖
+
 <img src="https://github.com/Mom377/AI_Project2/blob/main/031.png">
 
