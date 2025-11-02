@@ -104,7 +104,7 @@ Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
 <img src="https://github.com/Mom377/AI_Project2/blob/main/021.png">
 
 
-具體的程式碼請參考(https://github.com/Mom377/AI_Project2/blob/main/%E6%9C%9F%E4%B8%AD.ipynb)該文件
+具體的程式碼請參考該文件 → https://github.com/Mom377/AI_Project2/blob/main/%E6%9C%9F%E4%B8%AD.ipynb
 
 **GPU版**
 如果你已經參考CPU版的程式碼使其成功跑起來的話,你會留意到一件事:為什麼訓練這麼慢? 這時因為我們使用的是CPU去跑,接下來我們就用GPU去跑
