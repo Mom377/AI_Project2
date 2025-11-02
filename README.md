@@ -59,28 +59,28 @@ Colab便會配置一個帶有GPU的機器,此時筆記本就創建完成了。
 像Linux系統裡的終端指令操作那樣進行指令的輸入
 如使用Is指令,便可以得到目前目錄下的路徑
 
-<img src="https://github.com/Qi-sun-12/Ha/blob/cebb374acb603820947a7ffd98cf3336f5a7f8e4/10.png">
+<img src="https://github.com/Mom377/AI_Project2/blob/main/010.png">
 
 **以MINST手寫數字資料集作為範例進行訓練**
 
 **CPU版**
-<img src="https://github.com/Qi-sun-12/Ha/blob/45b2a5246b5b880bd85209ce5b4ea9add6ea237b/11.png">
+<img src="https://github.com/Mom377/AI_Project2/blob/main/011.png">
 
 導入相對應的庫
 
-<img src="https://github.com/Qi-sun-12/Ha/blob/e9d6058b0efbab2054dcb8d54584e4798feb759d/12.png">
+<img src="https://github.com/Mom377/AI_Project2/blob/main/012.png">
 
 神經網路的建立
 
-<img src="https://github.com/Qi-sun-12/Ha/blob/ba891428713d3cfc011b9dc20f1fd24d2fe4497f/13.png">
+<img src="https://github.com/Mom377/AI_Project2/blob/main/013.png">
 
 資料集下載(若沒有則會自動下載,若有則會自動跳過並讀取到相對應的資料)
 
-<img src="https://github.com/Qi-sun-12/Ha/blob/e642d7fc8d60a1708a68e4529b72e3fef2f805ff/14.png">
+<img src="https://github.com/Mom377/AI_Project2/blob/main/014.png">
 
 載入資料集(每十張圖片為一批,並隨機打亂)
 
-<img src="https://github.com/Qi-sun-12/Ha/blob/c8bee0b39c5ef916e276eb64673137962a3c4fd2/15.png">
+<img src="https://github.com/Mom377/AI_Project2/blob/main/015.png">
 
 網路實例化
 
